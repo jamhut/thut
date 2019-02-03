@@ -10,6 +10,7 @@
 *~
 *.sass-cache
 node_modules/
+package.json.orig.txt
 .tmp/
 
 # OS or Editor folders
