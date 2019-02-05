@@ -12,6 +12,7 @@
 node_modules/
 package.json.orig.txt
 .tmp/
+brad/
 
 # OS or Editor folders
 .DS_Store
