@@ -13,6 +13,7 @@ node_modules/
 package.json.orig.txt
 .tmp/
 brad/
+package-lock.json
 
 # OS or Editor folders
 .DS_Store
